@@ -1,6 +1,6 @@
 # Heartbeat: Measuring heart rate using remote photoplethysmography (rPPG)
 
-![]("rppg4.PNG")
+![](rppg4.PNG)
 This is a simple implementation of rPPG, a way to measure heart rate without skin contact. It uses a video recording or live feed of the face to analyse subtle changes in skin color.
 
 Here's how it works:
